@@ -8,6 +8,7 @@
 // ReactDOM.render(<App />, document.getElementById("root"));
 // registerServiceWorker();
 
+//********************This part is for plugin implementation*****************************
 import startAdmin from "./Admin";
 
 startAdmin("root");
