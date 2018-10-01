@@ -1,0 +1,11 @@
+.Body {
+  background-color: #ccc;
+  color: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+.center {
+  width: 50%;
+  margin: 0 auto;
+}
